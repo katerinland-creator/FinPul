@@ -1,0 +1,6 @@
+{
+  "name": "FinPulse - Мониторинг личных финансов и доходов",
+  "description": "Интеллектуальная панель мониторинга личных финансов с интерактивными графиками Chart.js, учетом доходов и отслеживанием выполнения запланированных поступлений.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
